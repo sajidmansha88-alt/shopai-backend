@@ -1,0 +1,12 @@
+{
+  "name": "shopai-chatbot-backend",
+  "version": "1.0.0",
+  "description": "Shopify AI Chatbot Backend - Vercel Serverless",
+  "main": "api/chat.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["shopify", "chatbot", "claude", "ai"],
+  "license": "MIT"
+}
